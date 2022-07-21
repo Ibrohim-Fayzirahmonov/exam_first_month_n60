@@ -655,8 +655,12 @@ footer {
     color: #000000;
 }
 
-.extra-boxes {
+.services-extra-boxes {
     background-color: #F4F4F4;
+}
+
+.extra-boxes {
+
     padding: 80px;
 }
 
